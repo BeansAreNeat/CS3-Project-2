@@ -1,8 +1,4 @@
-﻿  main.cpp
-C:\Users\joe9n\Desktop\CSlll Labs\Hicks Lab 2\Hicks Lab 2\main.cpp(2,10): fatal error C1083: Cannot open include file: 'ifstream': No such file or directory
-  WordListDriver.cpp
-C:\Users\joe9n\Desktop\CSlll Labs\Hicks Lab 2\Hicks Lab 2\WordListDriver.cpp(5,53): error C2572: 'WordOccurrence::WordOccurrence': redefinition of default argument: parameter 1
-C:\Users\joe9n\Desktop\CSlll Labs\Hicks Lab 2\Hicks Lab 2\WordList.h(8): message : see declaration of 'WordOccurrence::WordOccurrence'
-C:\Users\joe9n\Desktop\CSlll Labs\Hicks Lab 2\Hicks Lab 2\WordListDriver.cpp(5,67): error C2572: 'WordOccurrence::WordOccurrence': redefinition of default argument: parameter 2
-C:\Users\joe9n\Desktop\CSlll Labs\Hicks Lab 2\Hicks Lab 2\WordList.h(8): message : see declaration of 'WordOccurrence::WordOccurrence'
+﻿  Source.cpp
+  WordList.h
   Generating Code...
+  Hicks Lab 2.vcxproj -> C:\Users\joe9n\OneDrive\Desktop\CS3 Projects\Hicks Lab 2\x64\Debug\Hicks Lab 2.exe
